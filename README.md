@@ -8,7 +8,7 @@
 
 The main goals of the project were to work on and learn the following:
 
-- Data wrangling and preprocessing for machine learning
+- Data wrangling and preprocessing for machine learning models
 - Exploratory Data Analysis to understand relationships and distributions
 - Model selection and evaluation techniques
 - Feature selection to enhance model simplicity and performance
@@ -16,7 +16,7 @@ The main goals of the project were to work on and learn the following:
 
 ## Process
 ### Data wrangling and EDA
-Source: All details can be found in [1 - EDA notebook](../lhl-midterm-project/notebooks/1%20-%20EDA.ipynb)
+Source: All details can be found in [1 - EDA notebook](notebooks/1%20-%20EDA.ipynb)
 
 We started by loading the raw JSON files to extract the necessary data. Next, we parsed and merged the data into a single, comprehensive dataframe.
 
@@ -49,10 +49,10 @@ Preprocessing Steps:
 Finally, we saved the preprocessed data into CSV files for further use.
 
 ### Model Selection
-Source: All details can be found in [2 - Model Selection notebook](../lhl-midterm-project/notebooks/2%20-%20model_selection%20V1.ipynb)
+Source: All details can be found in [2 - Model Selection notebook](notebooks/2%20-%20model_selection%20V1.ipynb)
 
 ### Hyperparameter tuning
-Source: All details can be found in [3 - Tuning Pipeline notebook](../lhl-midterm-project/notebooks/3%20-%20tuning_pipeline.ipynb)
+Source: All details can be found in [3 - Tuning Pipeline notebook](notebooks/3%20-%20tuning_pipeline.ipynb)
 
 ## Results
 (fill in how your model performed)
