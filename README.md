@@ -1,7 +1,7 @@
 # Data Science Midterm Project
 
 ## Group Members
-- Andres : contributor
+- Andres Suarez: contributor
 - Weronika Waszczuk: contributor
 
 ## Project/Goals
@@ -49,16 +49,18 @@ Preprocessing Steps:
 Finally, we saved the preprocessed data into CSV files for further use.
 
 ### Model Selection
-Source: All details can be found in [2 - Model Selection notebook](notebooks/2%20-%20model_selection%20V1.ipynb)
+Source: All details can be found in [2 - Model Selection notebook](notebooks/2%20-%20model_selection%20V2.ipynb)
 
-### Hyperparameter tuning
-Source: All details can be found in [3 - Tuning Pipeline notebook](notebooks/3%20-%20tuning_pipeline.ipynb)
+1. Training and testing various regression models.
+2. Models evaluation.
+3. Feature selection.
+4. Hyperparameter tuning.
+
 
 ## Results
-Polynomial Features  show a significant improvement compared to the previous models:
+Polynomial Features show a significant improvement compared to the previous models:
 
-Test MSE: 141.1 billion, which is notably lower than the results from the original Ridge and Lasso models.
-Test R²: 0.465, which is a substantial improvement, indicating that the polynomial features helped the model better capture the relationship between the predictors and the target variable.
+Test MSE: 141.1 billion, which is notably lower than the results from the original Ridge and Lasso models. Test R²: 0.465, which is a substantial improvement, indicating that the polynomial features helped the model better capture the relationship between the predictors and the target variable.
 
 ## Challenges 
 The biggest challenges faced when working on the project were:
