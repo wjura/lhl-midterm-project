@@ -65,6 +65,7 @@ The biggest challenges faced when working on the project were:
 
 ## Future Goals
 - Addressing stretch activities for the project - working on additional steps marked as stretch to enhance the model beyond the minimum viable product.
+- Creating custom functions to increase efficiency.
 - Handling outliers - analyzing how outliers influence the model and evaluating whether removing them or capping them would be more effective.
 - Improving feature selection - evaluating how each feature contributes to the model's performance and retaining only those that enhance the model.
 - Comparing multiple models - testing and comparing a wider range of models to identify the most effective one.
