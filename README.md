@@ -55,7 +55,10 @@ Source: All details can be found in [2 - Model Selection notebook](notebooks/2%2
 Source: All details can be found in [3 - Tuning Pipeline notebook](notebooks/3%20-%20tuning_pipeline.ipynb)
 
 ## Results
-(fill in how your model performed)
+Polynomial Features  show a significant improvement compared to the previous models:
+
+Test MSE: 141.1 billion, which is notably lower than the results from the original Ridge and Lasso models.
+Test R²: 0.465, which is a substantial improvement, indicating that the polynomial features helped the model better capture the relationship between the predictors and the target variable.
 
 ## Challenges 
 The biggest challenges faced when working on the project were:
